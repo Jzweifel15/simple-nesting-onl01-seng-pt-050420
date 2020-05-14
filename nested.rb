@@ -88,6 +88,8 @@ def adding_matz
           :languages => ["C"]
         }
      }
+     
+     programmer_hash[:dennis_ritchie][:languages] = "Assembly"
 
     
 end
