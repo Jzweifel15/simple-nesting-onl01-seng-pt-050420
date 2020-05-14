@@ -61,8 +61,8 @@ def dennis_ritchies_language
         }
      }
      
-     str = programmer_hash[:dennis_ritchie][:languages]
-     puts str
+     str = programmer_hash[:dennis_ritchie][:languages].to_s
+     return str
      
 end
 
