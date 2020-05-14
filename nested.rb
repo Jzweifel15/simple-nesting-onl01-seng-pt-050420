@@ -39,8 +39,8 @@ def alan_kay_is_known_for
         }
      }
      
-     str = programmer_hash[:alan_kay][:known_for]
-     return str.to_s
+     return programmer_hash[:alan_kay][:known_for]
+     
      
 end
 
